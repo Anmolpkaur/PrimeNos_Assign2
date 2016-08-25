@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_2eaf52470a52b954fcd8142c670677c4412049ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_37a50c56d5d900a60aab6cd7e03084ce2bc5b48e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="001462ff870b9a76d9d882bcbed41328f688dae0">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fecd5178756e55b0b311bab39d9e1f4547e9d5b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_da62742a831287a65872fe791072e64973d07cad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_93962d05cf51e4dcab93a6e97722c11f491643a6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_3a19bfeedbff2b28040be63109fa682aca0edde6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30900aa0d09cf1553aaaba8581456d0d480b75e7">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_df76deb1d173384240268fbe2eec543ed1246137\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dell1\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\dell1\AndroidStudioProjects\PrimeNos_Assign2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_00e1545e6a199b12011ef3be6b3ba63e6f848d99\classes.dex" />
+    </item>
+
+</items>
